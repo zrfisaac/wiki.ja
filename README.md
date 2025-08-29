@@ -1,19 +1,21 @@
-# 📚 Bem-vindo à minha Wiki!
+# 📚 ようこそ、私のWikiへ！
 
-> *Última atualização: 2025-07-24*
+> *最終更新：2025-07-24*
 
-Seja bem-vindo à minha wiki pessoal!  
-Aqui você vai encontrar anotações, referências, tutoriais, ideias de projetos e tudo mais que eu considerar útil no meu dia a dia como desenvolvedor, entusiasta de tecnologia e curioso por natureza.
+私の個人Wikiへようこそ！
 
-Sinta-se à vontade para explorar os conteúdos no menu lateral.  
-A wiki está em constante evolução, então sempre tem algo novo por aqui!
+ここには、開発者、テクノロジー愛好家、そして生まれつきの好奇心旺盛な人間として、日々の生活で役立つと私が考えるメモ、参考資料、チュートリアル、プロジェクトのアイデアなどがすべて詰まっています。
 
----
+サイドメニューから自由にコンテンツを探索してください。
 
-💡 **Dica:** Use a busca no topo da página para encontrar rapidamente o que precisa.
+このWikiは常に進化しているので、いつも新しい何かが見つかります！
 
 ---
 
-> ⚠️ **Aviso:** Esta wiki é um bloco de anotações pessoal.  
-> Não me responsabilizo por informações incorretas, desatualizadas ou mal explicadas.  
-> Muitos textos são rascunhos, ideias soltas ou experimentos — use por sua conta e risco!
+💡 **ヒント:** ページ上部の検索機能を使えば、必要なものを素早く見つけられます。
+
+---
+
+> ⚠️ **注意:** このWikiは個人的なメモ帳です。
+> 不正確な情報、古くなった情報、説明が不十分な情報について、私は一切責任を負いません。
+> 多くの文章は下書き、ばらばらのアイデア、または実験的なものです。ご自身の責任でご利用ください！
